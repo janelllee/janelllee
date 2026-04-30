@@ -18,14 +18,18 @@ Hello, I'm Janell. A Data Analyst with experience in business intelligence, data
 * Collaborating with stakeholders to translate requirements into reporting solutions
 * Improving data workflows through documentation, standardisation, and process optimisation
 
-
+<!--
 ## 📊 Projects
 
 | Project Name | Description | Tech Stack |
 | ----------- | ----------- | ----------- |
 | Logistics Operations Dashboard | - Built an end-to-end dashboard using SQL Server and Power BI<br>- Cleaned and transformed raw logistics data from Kaggle<br>- Identified delivery delays and operational bottlenecks | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white) <br> ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) <br> ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white) <br> ![PowerBI]( https://img.shields.io/badge/Microsoft%20PowerBI-yellow) |
 
-Find out more about my projects [here](link).
+-->
+
+<!--
+Find out more about my projects [here](link). 
+-->
 
 <!--
 ### Sales Performance Analysis
