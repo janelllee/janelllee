@@ -38,10 +38,12 @@ Find out more about my projects [here](link).
 -->
 
 ## 🛠️ Tech Stack
-- **Languages:** SQL, Python (Pandas, NumPy)
-- **Visualization:** Power BI
-- **Databases:** Microsoft SQL Server, PostgreSQL, MySQL
-- **Other:** Excel, Jupyter Notebook
+
+- **Data & Analytics:** DAX, PySpark, SSAS, SSIS, AWS Glue, Databricks, Pandas / NumPy, SQL(MySQL, PostgreSQL, T-SQL), Microsoft SQL Server
+- **Visualization:** Microsoft Power BI, Power Query, Power Query M, Matplotlib / Seaborn
+- **Programming:** Python, JavaScript
+- **Tools & Environments:** AWS (S3, EC2), Git / GitHub, Jupyter Notebook
+- **Project Management:** Jira, Confluence, Agile / Scrum, Microsoft Suite (Excel, Word, PowerPoint)
 
 <!--
 ## Interesting Stats
